@@ -1,0 +1,23 @@
+﻿body
+{
+}
+.dashboard_padding {
+    
+}
+.input_data_contents_padding {
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+    /*background-color: aquamarine;*/
+    /*background-color: gainsboro;
+    background-color: azure;*/
+    background-color: lavender;
+}
+
+.output_data_contents_padding {
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+    /*background-color: cyan; */
+    background-color: aliceblue;
+}
